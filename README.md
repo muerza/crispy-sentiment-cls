@@ -61,7 +61,7 @@ NLP project for **Film Junky Union**, a community of classic cinema enthusiasts.
 ```
 Sprint 17/
 ├── README.md
-├── notebook_(16_project).ipynb    # Main notebook
+├── crispy-sentiment-cls.ipynb    # Main notebook
 ├── imdb_reviews.tsv               # Dataset
 ├── bert_embeddings.npz            # BERT embeddings (generated at runtime)
 └── build_notebook.py              # Notebook builder script
