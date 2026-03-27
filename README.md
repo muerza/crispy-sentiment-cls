@@ -63,8 +63,7 @@ Sprint 17/
 ├── README.md
 ├── crispy-sentiment-cls.ipynb    # Main notebook
 ├── imdb_reviews.tsv               # Dataset
-├── bert_embeddings.npz            # BERT embeddings (generated at runtime)
-└── build_notebook.py              # Notebook builder script
+└── bert_embeddings.npz            # BERT embeddings (generated at runtime)
 ```
 
 ## How to Run
