@@ -82,7 +82,7 @@ Sprint 17/
 
 3. Run the notebook:
    ```bash
-   jupyter notebook notebook_(16_project).ipynb
+   jupyter notebook crispy-sentiment-cls.ipynb 
    ```
 
 ## Conclusions
